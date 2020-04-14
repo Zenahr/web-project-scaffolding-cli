@@ -1,0 +1,2 @@
+create new directory
+copy and paste choosen template folder (including all files) into choosen destination folder

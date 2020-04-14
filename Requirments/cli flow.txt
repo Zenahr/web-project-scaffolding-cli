@@ -1,0 +1,13 @@
+CLI Tool without GUI to scaffold web projects
+
+prompt goes like this:
+# Takes in: [project_name template-name destination folder]
+$ zhtml make
+$ New project name: [enter here]
+$ Choose your template: [Show drop-down menu here (use py-cui for this advanced cli stuff)]
+$ Specify destination path: [Enter full path here]
+
+$ Please verify if everything is all-right
+$ Project Name: ABC
+$ Template:	XXX
+$ Destination:	XXX/XXX/XXX/ABC
